@@ -279,7 +279,7 @@ a {
 }
 
 .slider-image-1 {
-    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url((./background.jpg);
+    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(./background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
