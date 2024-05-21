@@ -44,7 +44,7 @@ a {
 }
 
 .background {
-    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(jpg/background.jpg);
+    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(./background.jpg);
     background-size: cover;
     height: 500px;
 
@@ -279,18 +279,18 @@ a {
 }
 
 .slider-image-1 {
-    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(jpg/background.jpg);
+    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url((./background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .slider-image-2 {
-    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(jpg/background2.jpg);
+    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(./background2.jpg);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
 }
 .slider-image-3 {
-    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(jpg/background3.jpg);
+    background: linear-gradient(0deg, rgba(147, 133, 141, .5) 0%, rgba(33, 33, 33, 0.4) 96%), url(./background3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
